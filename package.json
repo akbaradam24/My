@@ -1,0 +1,8 @@
+{
+  "name": "Drum_Kit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/akbaradam24/My_Drum_kit.git",
+  "author": "akbaradam24 <adam.akhbar24@gmail.com>",
+  "license": "MIT"
+}
